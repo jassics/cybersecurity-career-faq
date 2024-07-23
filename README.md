@@ -1,5 +1,7 @@
 # Cybersecurity Career Advice FAQs
-FAQs for cybersecurity career advice from security experts
+**FAQs for cybersecurity career advice from security experts.**
+
+![Cybersecurity Career Advice FAQs](cybersecurity-career-faq.png "cybersecurity-career-advice-faqs")
 
 These FAQs should provide a comprehensive overview for those considering a cybersecurity career, addressing entry-level concerns and long-term career development.
 We would also cover FAQs for security professionals seeking advice on job switches, upskilling, domain switches, etc.
