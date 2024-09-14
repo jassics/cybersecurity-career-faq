@@ -80,7 +80,8 @@ Aboslutely yes. Communication and soft skills are essential in cybersecurity.
 Security professionals need to explain technical risks to non-technical stakeholders, collaborate with teams, and influence decision-making. 
 Soft skills also help in effectively managing security policies, incident response, and security training.
 
-Moreover, when you grow up through the ladder you would see its obvious why people with good soft skills, writing skills are preferred at senior role. That doesn't mean you should not be very good at your core skills!
+> [!TIP]
+> Moreover, when you grow up through the ladder you would see its obvious why people with good soft skills, writing skills are preferred at senior role. That doesn't mean you should not be very good at your core skills!
 
 ### What should I do to move from Pentest role to Security Architecture role?
 To transition from a Pentesting role to a Security Architecture role:
