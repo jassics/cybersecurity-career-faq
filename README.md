@@ -64,5 +64,29 @@ Answer: Some common challenges include:
 3. Balancing security measures with user convenience
 4. Continuous learning and upskilling to stay relevant
 
-### Can I transition into cybersecurity from another IT role?
+### Can I move into cybersecurity from another IT role?
 Answer: Yes, many professionals transition into cybersecurity from other IT roles. Skills and experience in network administration, software development, or systems engineering are highly transferable to cybersecurity roles.
+
+### Is programming knowledge is important to succeed in cybersecurity domain?
+Well, it depends! 
+Programming knowledge is important in cybersecurity. It helps in understanding how software works, identifying vulnerabilities, writing scripts for automation, conducting code reviews, and analyzing malware. 
+
+While not mandatory for every role, it's crucial for advanced areas like application security, reverse engineering, and secure software development. Partially into pentest job as well.
+
+My suggestion is learn the very basic of programming like Python and understand at least to read the code, execute the code.
+
+### It is necessary to be good at communication and soft skills, if so, why?
+Aboslutely yes. Communication and soft skills are essential in cybersecurity. 
+Security professionals need to explain technical risks to non-technical stakeholders, collaborate with teams, and influence decision-making. 
+Soft skills also help in effectively managing security policies, incident response, and security training.
+
+Moreover, when you grow up through the ladder you would see its obvious why people with good soft skills, writing skills are preferred at senior role. That doesn't mean you should not be very good at your core skills!
+
+### What should I do to move from Pentest role to Security Architecture role?
+To transition from a Pentesting role to a Security Architecture role:
+
+- Develop a deep understanding of security design principles (e.g., defense-in-depth, secure software lifecycle).
+- Gain experience in threat modeling and secure software architecture.
+- Broaden your knowledge of compliance, risk management, and security frameworks (e.g., NIST, ISO).
+- Learn to design scalable security solutions and align them with business goals.
+- Improve communication skills for engaging with various stakeholders and leadership.
